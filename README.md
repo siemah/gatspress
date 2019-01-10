@@ -4,7 +4,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a> &
   <a href="https://www.wordpress.org">
-    <img src="https://s.w.org/style/images/wporg-logo.svg?3" />
+    <img height='150' src="https://s.w.org/style/images/wporg-logo.svg?3" />
   </a>
 </p>
 <h1 align="center">
