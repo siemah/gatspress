@@ -3,7 +3,6 @@
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
-  <h1>&</h1>
   <a href="https://www.wordpress.org">
     <img width='350' src="https://s.w.org/style/images/wporg-logo.svg?3" />
   </a>
