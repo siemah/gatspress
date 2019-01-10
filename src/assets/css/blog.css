@@ -1,0 +1,34 @@
+.post-card {
+    margin: 20px 0;
+    border-bottom: 1px solid purple;
+    color: blueviolet;
+}
+.post-card a {
+    text-decoration: none;
+    color: blueviolet;
+}
+.post-card p {
+    margin-bottom: 10px;
+}
+.post-image {
+    width: 90%;
+    max-height: 150px;
+    border-radius: 3px;
+    vertical-align: text-bottom;
+}
+.post-image-container, .post-details {
+    display: inline-block;
+    width: 80%;
+}
+.post-image-container {
+    text-align: center;
+    width: 20%;
+}
+.blog-grid-button {
+    display: none;
+}
+.post-card-date {
+    background-color: indigo;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
