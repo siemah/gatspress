@@ -6,8 +6,9 @@ import SEO from '../components/seo'
 class NotFoundPage extends React.Component {
   _onLoad = e => console.log(window)
   componentWillMount = () => {
+    if (typeof window !== `undefined`) {
     console.log(window)
-    this._onLoad();
+    this._onLoad();}
   }
   render () {
     return (
